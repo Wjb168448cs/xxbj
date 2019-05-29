@@ -6,3 +6,5 @@ do
    echo -ne "\033[${i}G${astr}"
    sleep 0.1
 done
+
+hiya
